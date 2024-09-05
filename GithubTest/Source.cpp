@@ -4,5 +4,6 @@ using namespace std;
 
 int main() 
 {
-	cout << "Hello" << endl;
+	int a = 3, b = 4;
+	cout << a + b << endl;
 }
